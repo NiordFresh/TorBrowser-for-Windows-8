@@ -16,3 +16,11 @@ Tor Browser 13.5.28 (based on Firefox 115.32.1 ESR) is the last version to offic
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 15.0.5 / ESR140.7.0 | ✅ | ✅ | ❌ | [Download](https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/torbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/torbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.zip) |
 | 15.0.10 / ESR140.10.0 | ✅ | ✅ | ❌ | [Download](https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.5_ESR140.7.0/torbrowser_15.0.5_ESR140.7.0_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.5_ESR140.7.0/torbrowser_15.0.5_ESR140.7.0_win8_portable-NFX.zip) |
+
+# Not satisfied? Check out my other ports:
+- [Mullvad Browser for Windows 8+](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8) - Privacy-focused web browser developed to minimize fingerprinting.
+- [Tor Browser for Windows 8+](https://github.com/NiordFresh/TorBrowser-for-Windows-8) - Free, open-source web browser designed to protect user privacy and anonymity.
+- [LibreWolf for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8) - Privacy-focused web browser based on Firefox, designed to enhance security.
+- [Zen Browser for Windows 8+](https://github.com/NiordFresh/ZenBrowser-for-Windows-8) - Modern web browser based on the Firefox engine, designed with a focus on simplicity.
+
+> © Powered by NiordFresh. 
