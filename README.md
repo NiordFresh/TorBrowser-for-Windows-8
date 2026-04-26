@@ -12,7 +12,7 @@ Tor Browser 13.5.28 (based on Firefox 115.32.1 ESR) is the last version to offic
 
 # Compatibility
 
-| Version | Windows 8.1 | Windows 8 | Windows 7
-| ------------- | ------------- | ------------- | ------------- |
-| 15.0.5 / ESR140.7.0 | ✅ | ✅ | ❌ |
-| 15.0.10 / ESR140.10.0 | ✅ | ✅ | ❌ |
+| Version | Windows 8.1 | Windows 8 | Windows 7 | Download [.7z] | Download [.zip] |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 15.0.5 / ESR140.7.0 | ✅ | ✅ | ❌ | [Download](https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/torbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/torbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.zip) |
+| 15.0.10 / ESR140.10.0 | ✅ | ✅ | ❌ | [Download](https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.5_ESR140.7.0/torbrowser_15.0.5_ESR140.7.0_win8_portable-NFX.7z) | [Download](https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.5_ESR140.7.0/torbrowser_15.0.5_ESR140.7.0_win8_portable-NFX.zip) |
